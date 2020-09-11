@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-データサイエンス素粒子原子核
+データサイエンス素粒子原子核  
 =========================================
+Data Science for Particle Nuclear physics 2020 (DSPN2020)
+==========================================================
 
 ========
 概要
