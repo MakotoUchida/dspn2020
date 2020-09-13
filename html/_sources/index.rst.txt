@@ -68,6 +68,6 @@ Data Science for Particle Nuclear physics 2020 (DSPN2020)
 ========
 * 東京工業大学理科教育振興支援: https://www.titech.ac.jp/giving/recognition/science_class.html
 * 東京工業大学基金: https://www.titech.ac.jp/giving/
-* 東京工業大学理学院: https://www.titech.ac.jp/giving/recognition/science_class.html
+* 東京工業大学理学院物理学系: https://educ.titech.ac.jp/phys/
 * 東京工業大学HP: https://www.titech.ac.jp/
   
