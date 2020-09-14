@@ -37,6 +37,11 @@ Data Science for Particle Nuclear physics 2020 (DSPN2020)
 | お問い合わせは下記までお願いいたします。
 | 内田　誠 (東京工業大学) uchida at phys.titech.ac.jp（atは@に変更して下さい）
 
+============
+応募締め切り
+============
+| 2020年9月30日 17:00
+
 ==========
 開催日程
 ==========
@@ -55,18 +60,23 @@ Data Science for Particle Nuclear physics 2020 (DSPN2020)
 
    /test/member
 
-==========
-協賛
-==========
-.. toctree::
-   :maxdepth: 2
+.. figure:: images/btn_giving_on.jpg
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
+    :figclass: align-center
 
-   /test/kikin
+　 「データサイエンス素粒子原子核」は東工大基金 理科教育振興の支援を受けています。
+    .. toctree::
+
+       /test/kikin
+
 
 ========
 リンク
 ========
-* 東京工業大学理科教育振興支援: https://www.titech.ac.jp/giving/recognition/science_class.html
+* 東工大基金理科教育振興支援: https://www.titech.ac.jp/giving/recognition/science_class.html
 * 東京工業大学基金: https://www.titech.ac.jp/giving/
 * 東京工業大学理学院物理学系: https://educ.titech.ac.jp/phys/
 * 東京工業大学HP: https://www.titech.ac.jp/
