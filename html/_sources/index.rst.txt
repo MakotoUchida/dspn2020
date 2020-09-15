@@ -35,7 +35,7 @@ Data Science for Particle Nuclear physics 2020 (DSPN2020)
 ========
 | リンクのフォームに記入: https://forms.gle/SodqGjWtzXACTyHr6
 | お問い合わせは下記までお願いいたします。
-| 内田　誠 (東京工業大学) uchida at phys.titech.ac.jp（atは@に変更して下さい）
+| 内田　誠 (東京工業大学 理学院 物理学系) uchida at phys.titech.ac.jp（atは@に変更して下さい）
 
 ============
 応募締め切り
