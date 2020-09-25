@@ -30,6 +30,11 @@ Data Science for Particle Nuclear physics 2020 (DSPN2020)
 | ZOOMによるオンライン形式
 | Slackにより開催日以外でのディスカッションなども行う。
 
+========
+参加費用
+========
+| 無料
+
 応募方法
 ========
 | リンクのフォームに記入: https://forms.gle/SodqGjWtzXACTyHr6
@@ -39,7 +44,7 @@ Data Science for Particle Nuclear physics 2020 (DSPN2020)
 ============
 応募締め切り
 ============
-| 2020年9月30日 17:00
+| 2020年10月9日 17:00
 
 ==========
 開催日程
