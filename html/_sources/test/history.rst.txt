@@ -1,0 +1,27 @@
+###########################
+活動報告
+###########################
+
+講習会１日目 
+--------------------------
+| 2020年10月17日、高校生向け講習会「データサイエンス素粒子原子核」１日目が開催されました。様々な地域から17名の高校生の参加、および７名の大学スタッフ(２名のTA含む)の参加がありました。
+
+| Googleクラウド上に構築されたJupyterサーバーにて実習は行われました。
+| 初日は,プログラミング言語Pythonの基礎、numpy, pandas, matplotlibなどのPython基本パッケージの講習が行われました。また素粒子原子核実験における荷電粒子の運動量測定について実習を行いました。
+| 実習は全てZoomオンライン会議形式で行われ、開催日以外にもSlackチャットを利用して実習内容に関する議論を行っています。
+
+| 参加者の集合写真
+
+.. figure:: ../images/day1_1.png
+    :width: 2192px
+    :align: center
+    :alt: alternate text
+    :figclass: align-center
+
+
+.. figure:: ../images/day1_2.png
+    :width: 2192px
+    :align: center
+    :alt: alternate text
+    :figclass: align-center
+	       
